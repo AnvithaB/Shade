@@ -1,0 +1,5 @@
+.build-cache/
+.build/
+.DS_Store
+*.app/
+.swiftpm/
