@@ -38,8 +38,6 @@ The build is signed locally, not notarized. This repository contains source, not
 
 - **App Store confirmations can lose their Install/purchase button while Shade is on.** Changing the tint color did not help in testing. Turn the tint off manually for the confirmation, then turn it back on. Shade does not automatically pause for the App Store.
 - Secure system screens and some full-screen content may appear above the overlay.
-- The menu-bar icon can be difficult to find in a crowded menu bar. A Dock shortcut provides another way to open its menu.
-- Multi-display reconnection and Spaces/full-screen behavior have not been comprehensively tested.
 
 This is a small personal utility with limited testing. See [TESTING.md](TESTING.md) for what has actually been checked.
 
