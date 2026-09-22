@@ -1,8 +1,10 @@
-# Shade
+# Shade — Custom Screen Tint for macOS
 
-A small macOS menu-bar utility that puts a translucent tint over your screens. Built for personal use when bright text in dark-mode apps felt too bright.
+**Shade** is a small macOS screen color filter that adds a customizable, translucent overlay to your Mac’s displays. Choose a teal, amber, or other tint, adjust its opacity, and switch it on or off from the menu bar. It uses click-through windows so you can continue working in the apps underneath.
 
-Shade tints the entire screen, including images and video. It does not selectively recolor text or change the display’s hardware brightness.
+Built with Swift and AppKit for macOS 13 or later, and used locally on an Apple silicon Mac. Source and build instructions are available here in [AnvithaB/Shade](https://github.com/AnvithaB/Shade).
+
+Shade started as a personal tool for bright text in dark-mode apps. It tints the entire screen, including images and video; it does not selectively recolor text, change hardware brightness, or adjust display gamma tables.
 
 ## What it does
 
